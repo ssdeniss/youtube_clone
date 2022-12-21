@@ -13,6 +13,7 @@ const Navbar = () => {
         position: "sticky",
         background: "#252525",
         top: 0,
+        zIndex: 100,
         justifyContent: "space-between",
       }}
     >
